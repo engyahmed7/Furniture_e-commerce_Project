@@ -1,0 +1,870 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "accessories",
+      "productName": "Nusskubus Nutcracker",
+      "price": 50,
+      "rating": 4.9,
+      "smallDesc": "Perfect for hazelnuts, walnuts, brazil nuts, and the like.",
+      "amount": 10,
+      "image": "product1_1.webp",
+      "images": [
+        "product1_1.webp",
+        "product1_2.webp",
+        "product1_3.webp",
+        "product1_4.webp",
+        "product1_5.webp"
+      ],
+      "description": "This simple and sculptural nutcracker takes the act of cracking nuts back to its primitive origins by utilizing an anvil and a hammer, both made out of solid wood. Simply place a nut in one of the three craters on the anvil, and strike with the hammer cube to crack it.",
+      "info": "Dimensions: Chair - 32.75\"W x 32.75\"D x 32\"H, Ottoman - 26\"W x 21.5\"D x 17.25\"H. Material: Molded plywood, premium leather upholstery.",
+      "tags": ["Nusskubus", "Nutcracker", "accessories"],
+      "reviews": [
+        {
+          "customerName": "Jennifer",
+          "review": "Absolutely stunning! It's a masterpiece of design and comfort. Worth every penny.",
+          "image": "reviewer1.jpeg"
+        },
+        {
+          "customerName": "Michael",
+          "review": "This Nutcracker is an investment piece, but it's worth every cent. It's incredibly comfortable and looks beautiful in my living room.",
+          "image": "reviewer2.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "table",
+      "productName": "Kei Side Table",
+      "price": 295,
+      "rating": 4.8,
+      "smallDesc": "Bringing a charming presence to a space",
+      "amount": 15,
+      "image": "product2_1.webp",
+      "images": ["product2_1.webp", "product2_2.webp"],
+      "description": "The Herman Miller Aeron Chair is the gold standard in ergonomic office seating. It features innovative design and advanced ergonomic features such as adjustable lumbar support, tilt limiter, and breathable mesh upholstery to provide unmatched comfort and support throughout the workday.",
+      "info": "Dimensions: Size A - 25.75\"W x 16\"-18.5\"D x 38.5\"-43\"H, Size B - 27\"W x 16.75\"-18.5\"D x 41\"-45\"H, Size C - 28.25\"W x 18.5\"-20.5\"D x 43\"-45\"H. Material: Breathable mesh, aluminum frame.",
+      "tags": ["side", "table", "kei side"],
+      "reviews": [
+        {
+          "customerName": "Alex",
+          "review": "Best office chair I've ever owned! It's incredibly comfortable and provides excellent support for long hours of sitting.",
+          "image": "reviewer2.jpeg"
+        },
+        {
+          "customerName": "Jessica",
+          "review": "I was hesitant to spend so much on a chair, but this one is worth every penny. It's made a huge difference in my comfort and productivity at work.",
+          "image": "reviewer3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "accessories",
+      "productName": "Ito Bindery Memo Block",
+      "price": 25,
+      "rating": 4.6,
+      "smallDesc": "Capture life’s unfolding narrative on Ito Bindery’s exquisite Memo Blocks.",
+      "amount": 20,
+      "image": "product3_1.webp",
+      "images": [
+        "product3_1.webp",
+        "product3_2.webp",
+        "product3_3.webp",
+        "product3_4.webp"
+      ],
+      "description": "Capture life’s unfolding narrative on Ito Bindery’s exquisite Memo Blocks. Stack them, display them, scribble your dreams on them. 350 tear-off sheets. Precision cut edges. Smooth paper surface. With excellent eco-credentials – a recycled paperboard base, plastic-free packaging – the three modular block sizes can be arranged into a rectangle to create the perfect desk accessory. Choose from white, gray, red or bewitching black, which turns pencil jottings to shimmering silver. It’s magic.",
+      "info": "Dimensions: 26.75\"W x 32.25\"D x 39.38\"H. Material: Layer-glued bent oak veneer frame, high resilience foam cushion, polyester blend upholstery.",
+      "tags": ["Ito Bindery", "accessories", "affordable"],
+      "reviews": [
+        {
+          "customerName": "David",
+          "review": "Love this chair! It's comfortable, affordable, and looks great in my living room. Highly recommend!",
+          "image": "reviewer1.jpeg"
+        },
+        {
+          "customerName": "Sarah",
+          "review": "This chair exceeded my expectations. It's comfortable, sturdy, and stylish. A great value for the price.",
+          "image": "reviewer3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "table",
+      "productName": "Glass Table",
+      "price": 100,
+      "rating": 4.6,
+      "smallDesc": "A one of one side table experiment utilizing a spare glass top.",
+      "amount": 8,
+      "image": "product4_1.webp",
+      "images": ["product4_1.webp", "product4_2.webp"],
+      "description": "The base is made from Baltic birch plywood. The glass top has a small chip and a couple of scratches. Available for local pickup in Los Angeles only.",
+      "info": "Dimensions: 36\"W x 40\"D x 42\"H. Material: Leather upholstery, metal frame.",
+      "tags": ["table", "Glass", "leather", "furniture"],
+      "reviews": [
+        {
+          "customerName": "Ethan Harris",
+          "review": "I absolutely love this recliner chair! It's incredibly comfortable and provides excellent lumbar support.",
+          "image": "reviewer1.jpeg"
+        },
+        {
+          "customerName": "Ava Martin",
+          "review": "This chair is fantastic. It's well-made, stylish, and the reclining feature is a game-changer.",
+          "image": "reviewer2.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "accessories",
+      "productName": "Endless Rain Record",
+      "price": 60,
+      "rating": 4.4,
+      "smallDesc": "Audio to sooth your mind.",
+      "amount": 25,
+      "image": "product5_1.webp",
+      "images": [
+        "product5_1.webp",
+        "product5_2.webp",
+        "product5_3.webp",
+        "product5_4.webp"
+      ],
+      "description": "Play Endless Rain, a vinyl record by Japanese sound artist Kouichi Okamoto (a.k.a. Bekkou). Two sides, Rain and Drop.",
+      "info": "Dimensions: 18\"W x 18\"D x 35\"H. Material: Reclaimed wood.",
+      "tags": ["Endless", "Record", "rustic", "accessories"],
+      "reviews": [
+        {
+          "customerName": "Emma Thompson",
+          "review": "I love the rustic look of this chair! It's sturdy and well-made, and it adds a charming touch to my dining room.",
+          "image": "reviewer3.jpeg"
+        },
+        {
+          "customerName": "James Anderson",
+          "review": "This chair exceeded my expectations. It's solid, comfortable, and looks fantastic in my kitchen.",
+          "image": "reviewer1.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "table",
+      "productName": "Coffee Table",
+      "price": 70,
+      "rating": 4.7,
+      "smallDesc": "One of One.",
+      "amount": 18,
+      "image": "product6_1.webp",
+      "images": ["product6_1.webp", "product6_2.webp"],
+      "description": "A one of one coffee table experiment made with marine-grade plywood, finished with hardwax oil. Available for local pickup/delivery in Los Angeles only.",
+      "info": "Dimensions: 38\"W x 36\"D x 35\"H. Material: Leather upholstery, wood frame.",
+      "tags": ["one of one", "table", "furniture"],
+      "reviews": [
+        {
+          "customerName": "Benjamin Roberts",
+          "review": "This armchair is absolutely stunning! The leather is soft and luxurious, and the craftsmanship is impeccable.",
+          "image": "reviewer1.jpeg"
+        },
+        {
+          "customerName": "Evelyn Clark",
+          "review": "I'm thrilled with this purchase. The armchair is comfortable, elegant, and adds a touch of vintage flair to my living room.",
+          "image": "reviewer3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "accessories",
+      "productName": "Skultuna Herb Pot",
+      "price": 90,
+      "rating": 4.9,
+      "smallDesc": "A nod to traditional terracotta planters, this brass herb pot is an elegant addition to your space.",
+      "amount": 8,
+      "image": "product7_1.webp",
+      "images": ["product7_1.webp", "product7_2.webp", "product7_3.webp"],
+      "description": "A nod to traditional terracotta planters, this brass herb pot is an elegant addition to your space. A collaboration between prolific designer Monica Förster and iconic Swedish brand Skultuna, the pot fuses contemporary lines with ancient production methods. Each pot is spun from a solid piece of brass, using a centuries old technique called metal spinning.",
+      "info": "Dimensions: 33\"W x 33\"D x 33\"H. Material: Leather, molded plywood.",
+      "tags": ["Skultuna", "Herb", "pot", "accessories"],
+      "reviews": [
+        {
+          "customerName": "Alexandra Lee",
+          "review": "This lounge chair is amazing! It's incredibly comfortable and adds a touch of sophistication to my living room.",
+          "image": "reviewer1.jpeg"
+        },
+        {
+          "customerName": "Matthew Davis",
+          "review": "I couldn't be happier with this purchase. The chair is well-made, stylish, and provides excellent support.",
+          "image": "reviewer2.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "table",
+      "productName": "Kei Console",
+      "price": 795,
+      "rating": 4.7,
+      "smallDesc": "A resting place for sounds of old memories and new sensations.",
+      "amount": 15,
+      "image": "product8_1.webp",
+      "images": ["product8_1.webp", "product8_2.webp"],
+      "description": "A resting place for sounds of old memories and new sensations. The Kei Console facilitates our inevitable interaction with music, and its accompanying impressions.",
+      "info": "Dimensions: 30\"W x 30\"D x 33\"H. Material: Fabric upholstery, wood frame.",
+      "tags": ["table", "mid-century modern", "furniture"],
+      "reviews": [
+        {
+          "customerName": "Oliver White",
+          "review": "This armchair is fantastic! It's comfortable, stylish, and fits perfectly in my living room.",
+          "image": "reviewer1.jpeg"
+        },
+        {
+          "customerName": "Emma Taylor",
+          "review": "I love this chair! It's well-made, easy to assemble, and adds a touch of retro charm to my home.",
+          "image": "reviewer3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "chair",
+      "productName": "Pure Loop Binuance Retro",
+      "price": 80,
+      "rating": 4.8,
+      "smallDesc": "The Binuance develops colours, material and technology of the Pure Loop family",
+      "amount": 10,
+      "image": "product9_1.webp",
+      "images": [
+        "product9_1.webp",
+        "product9_2.webp",
+        "product9_3.webp",
+        "product9_4.webp"
+      ],
+      "description": "The Binuance develops colours, material and technology of the Pure Loop family. The sophisticated two-colour shell is obtained from a single polypropylene injection and it is available in seven tone-on-tone versions. The contrast of the two colours of the shell can be emphasised by the wooden leg frame, or by the retro frame.",
+      "info": "Dimensions: 28\"W x 32\"D x 42\"H. Material: Fabric upholstery, wood frame.",
+      "tags": ["chair", "Pure Loop", "furniture"],
+      "reviews": [
+        {
+          "customerName": "Sophia Clark",
+          "review": "I'm in love with this chair! It's elegant, comfortable, and adds a touch of luxury to my living room.",
+          "image": "reviewer3.jpeg"
+        },
+        {
+          "customerName": "Lucas Turner",
+          "review": "This chair exceeded my expectations. It's well-made, stylish, and provides excellent support.",
+          "image": "reviewer2.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "accessories",
+      "productName": "Balancing Blocks",
+      "price": 60,
+      "rating": 3.5,
+      "smallDesc": "Handcrafted from reclaimed oak, and tumbled in a non-toxic water-based paint that allows the natural grain to show through. A printed cotton drawstring bag is included for convenient storage.",
+      "amount": 10,
+      "image": "product10_1.webp",
+      "images": ["product10_1.webp", "product10_2.webp", "product10_3.webp"],
+      "description": "A set of 10 multi-faceted, stone-sized wood blocks created by New York based design studio Fort Standard as a modern twist on classic building blocks. Use them to create gravity-defying sculptures, or as a challenging game similar to rock balancing.",
+      "info": "Dimensions: 28\"W x 32\"D x 42\"H. Material: Fabric upholstery, wood frame.",
+      "tags": ["accessories", "Balancing Blocks", "furniture"],
+      "reviews": [
+        {
+          "customerName": "Andria addison",
+          "review": "i am fasinated with the product of your website",
+          "image": "reviewer3.jpeg"
+        },
+        {
+          "customerName": "Ahmad Barnes",
+          "review": "I'm impressed with the quality of this armchair. It arrived promptly and was well-packaged. Looks even better in person!",
+          "image": "reviewer1.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "table",
+      "productName": "Versable",
+      "price": 100,
+      "rating": 4.5,
+      "smallDesc": "The Versable family includes fixed and extendable models, available in several sizes, in order to allow a full answer to the needs of the contemporary environments.",
+      "amount": 12,
+      "image": "product11_1.webp",
+      "images": ["product11_1.webp", "product11_2.webp"],
+      "description": "A linear table, with clean and delicate shapes. Hence, the idea of creating a versatile piece of furniture. The idea behind Versable was to design a table with a simple and essential aesthetic, light and robust at the same time, able to conceal the central function of the table, but gradually revealing it.",
+      "info": "Designed for both style and comfort, this armchair features a curved backrest and armrests for optimal support. Whether used as a lounge chair or accent piece, it adds sophistication to your home.",
+      "tags": "vintage, walnut, armchair, wooden, furniture",
+      "reviews": [
+        {
+          "customerName": "Sophia Clark",
+          "review": "Absolutely stunning armchair! The walnut wood finish is gorgeous, and it's surprisingly comfortable to sit in.",
+          "image": "reviewer3.jpeg"
+        },
+        {
+          "customerName": "David Wilson",
+          "review": "I'm impressed with the quality of this armchair. It arrived promptly and was well-packaged. Looks even better in person!",
+          "image": "reviewer1.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "chair",
+      "productName": "Skol wood",
+      "price": 80,
+      "rating": 4.8,
+      "smallDesc": "The design of Skol, at first glance, brings back memories of times long gone by.",
+      "amount": 8,
+      "image": "product12_1.webp",
+      "images": ["product12_1.webp", "product12_2.webp"],
+      "description": "The design of Skol, at first glance, brings back memories of times long gone by, sedimented in the collective memory. In fact, the peculiar shapes and the delicate, timeless structure bring to mind the school chairs, coupled with the desks where each person’s experiences took place during the years of childhood and adolescence.",
+      "info": "Handcrafted with precision, this chair features intricately carved details and a refined silhouette. Whether placed in a study or living room, it exudes opulence and style.",
+      "tags": "elegant, cherry wood, chair, wooden, luxury",
+      "reviews": [
+        {
+          "customerName": "Olivia Martinez",
+          "review": "This chair exceeded my expectations! The cherry wood finish is stunning, and it's surprisingly comfortable to sit in for long periods.",
+          "image": "reviewer3.jpeg"
+        },
+        {
+          "customerName": "Daniel White",
+          "review": "I'm thrilled with my purchase. The chair arrived in perfect condition, and the craftsmanship is superb. Highly recommend!",
+          "image": "reviewer2.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "table",
+      "productName": "Rami",
+      "price": 189,
+      "rating": 4.2,
+      "smallDesc": "The Rami trestles allow you to create a modular and customized table, tailored to the setting and the wishes of those who choose it.",
+      "amount": 15,
+      "image": "product13_1.webp",
+      "images": ["product13_1.webp", "product13_2.webp", "product13_3.webp"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget semper risus, nec tincidunt nisl. Mauris fringilla sapien non sapien sollicitudin vulputate. Cras scelerisque ex vitae nibh semper, non sollicitudin lacus tempor. Nam consequat nisi vitae justo bibendum venenatis. Mauris posuere leo eget nibh cursus, eget pharetra urna volutpat. Nulla fermentum augue ac quam dignissim, ut consectetur ante viverra. Ut rutrum interdum neque, eget viverra risus rutrum vel. Nam ac gravida nunc, nec sagittis nulla. Pellentesque sodales, lacus vitae dapibus dignissim, lectus lacus pellentesque turpis, ut viverra arcu nulla sed arcu. Curabitur auctor non urna nec iaculis. Curabitur nec suscipit libero. Suspendisse potenti.",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget semper risus, nec tincidunt nisl. Mauris fringilla sapien non sapien sollicitudin vulputate. Cras scelerisque ex vitae nibh semper, non sollicitudin lacus tempor. Nam consequat nisi vitae justo bibendum venenatis. Mauris posuere leo eget nibh cursus, eget pharetra urna volutpat. Nulla fermentum augue ac quam dignissim, ut consectetur ante viverra. Ut rutrum interdum neque, eget viverra risus rutrum vel. Nam ac gravida nunc, nec sagittis nulla. Pellentesque sodales, lacus vitae dapibus dignissim, lectus lacus pellentesque turpis, ut viverra arcu nulla sed arcu. Curabitur auctor non urna nec iaculis. Curabitur nec suscipit libero. Suspendisse potenti.",
+      "tags": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget semper risus, nec tincidunt nisl. Mauris fringilla sapien non sapien sollicitudin vulputate. Cras scelerisque ex vitae nibh semper, non sollicitudin lacus tempor. Nam consequat nisi vitae justo bibendum venenatis. Mauris posuere leo eget nibh cursus, eget pharetra urna volutpat. Nulla fermentum augue ac quam dignissim, ut consectetur ante viverra. Ut rutrum interdum neque, eget viverra risus rutrum vel. Nam ac gravida nunc, nec sagittis nulla. Pellentesque sodales, lacus vitae dapibus dignissim, lectus lacus pellentesque turpis, ut viverra arcu nulla sed arcu. Curabitur auctor non urna nec iaculis. Curabitur nec suscipit libero. Suspendisse potenti.",
+      "reviews": [
+        {
+          "customerName": "Emily Johnson",
+          "review": "I absolutely love this chair! It's beautifully crafted and adds a touch of elegance to my dining room.",
+          "image": "reviewer3.jpeg"
+        },
+        {
+          "customerName": "Mark Thompson",
+          "review": "This chair exceeded my expectations. It's sturdy, comfortable, and looks fantastic in my study.",
+          "image": "reviewer1.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "accessories",
+      "productName": "Ito Bindery Drawing Pad",
+      "price": 35,
+      "rating": 4.5,
+      "smallDesc": "Put your mind on paper with Ito Bindery Drawing Pads.",
+      "amount": 18,
+      "image": "product14_1.webp",
+      "images": [
+        "product14_1.webp",
+        "product14_2.webp",
+        "product14_3.webp",
+        "product14_4.webp",
+        "product14_5.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget semper risus, nec tincidunt nisl. Mauris fringilla sapien non sapien sollicitudin vulputate. Cras scelerisque ex vitae nibh semper, non sollicitudin lacus tempor. Nam consequat nisi vitae justo bibendum venenatis. Mauris posuere leo eget nibh cursus, eget pharetra urna volutpat. Nulla fermentum augue ac quam dignissim, ut consectetur ante viverra. Ut rutrum interdum neque, eget viverra risus rutrum vel. Nam ac gravida nunc, nec sagittis nulla. Pellentesque sodales, lacus vitae dapibus dignissim, lectus lacus pellentesque turpis, ut viverra arcu nulla sed arcu. Curabitur auctor non urna nec iaculis. Curabitur nec suscipit libero. Suspendisse potenti.",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget semper risus, nec tincidunt nisl. Mauris fringilla sapien non sapien sollicitudin vulputate. Cras scelerisque ex vitae nibh semper, non sollicitudin lacus tempor. Nam consequat nisi vitae justo bibendum venenatis. Mauris posuere leo eget nibh cursus, eget pharetra urna volutpat. Nulla fermentum augue ac quam dignissim, ut consectetur ante viverra. Ut rutrum interdum neque, eget viverra risus rutrum vel. Nam ac gravida nunc, nec sagittis nulla. Pellentesque sodales, lacus vitae dapibus dignissim, lectus lacus pellentesque turpis, ut viverra arcu nulla sed arcu. Curabitur auctor non urna nec iaculis. Curabitur nec suscipit libero. Suspendisse potenti.",
+      "tags": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget semper risus, nec tincidunt nisl. Mauris fringilla sapien non sapien sollicitudin vulputate. Cras scelerisque ex vitae nibh semper, non sollicitudin lacus tempor. Nam consequat nisi vitae justo bibendum venenatis. Mauris posuere leo eget nibh cursus, eget pharetra urna volutpat. Nulla fermentum augue ac quam dignissim, ut consectetur ante viverra. Ut rutrum interdum neque, eget viverra risus rutrum vel. Nam ac gravida nunc, nec sagittis nulla. Pellentesque sodales, lacus vitae dapibus dignissim, lectus lacus pellentesque turpis, ut viverra arcu nulla sed arcu. Curabitur auctor non urna nec iaculis. Curabitur nec suscipit libero. Suspendisse potenti.",
+      "reviews": [
+        {
+          "customerName": "Sophia Brown",
+          "review": "I purchased these chairs for my dining room, and they are absolutely stunning! The quality is exceptional, and they are very comfortable to sit in for long periods.",
+          "image": "reviewer3.jpeg"
+        },
+        {
+          "customerName": "David Wilson",
+          "review": "These chairs are well-made and sturdy. They arrived quickly and were easy to assemble. I'm very pleased with my purchase.",
+          "image": "reviewer2.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "chair",
+      "productName": "Feluca",
+      "price": 70,
+      "rating": 4.7,
+      "smallDesc": "The feluca (“becorn hat” in English) is an ancient headgear used in the eighteenth century and characterized by two downward curved extremities. ",
+      "amount": 30,
+      "image": "product15_1.webp",
+      "images": [
+        "product15_1.webp",
+        "product15_2.webp",
+        "product15_3.webp",
+        "product15_4.webp"
+      ],
+      "description": "The Ergonomic Racing Chair is engineered for long gaming sessions. Its ergonomic design and high-quality materials ensure optimal support and comfort, so you can stay focused on the game.",
+      "info": "Equipped with adjustable armrests, lumbar support, and a reclining feature, this chair offers customizable comfort for every gamer. Whether racing or battling, it provides the ultimate gaming experience.",
+      "tags": "ergonomic, racing, chair, gaming, furniture",
+      "reviews": [
+        {
+          "customerName": "Alex Johnson",
+          "review": "Love this chair! It's super comfortable and looks great in my gaming setup.",
+          "image": "reviewer2.jpeg"
+        },
+        {
+          "customerName": "Jessica Parker",
+          "review": "Best gaming chair I've ever had! The adjustable features are fantastic, and it's very sturdy.",
+          "image": "reviewer3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "sofa",
+      "productName": "Waffle endless",
+      "price": 70,
+      "rating": 4.6,
+      "smallDesc": "The Waffle collection, from the outside, presents a cubic shape and regular, precise geometric forms",
+      "amount": 25,
+      "image": "product16_1.webp",
+      "images": [
+        "product16_1.webp",
+        "product16_2.webp",
+        "product16_3.webp",
+        "product16_4.webp",
+        "product16_5.webp"
+      ],
+      "description": "The High Back Gaming Chair offers unparalleled support and comfort during intense gaming sessions. Its ergonomic design promotes proper posture and reduces fatigue, allowing you to focus on winning.",
+      "info": "With adjustable features and premium padding, this chair adapts to your body for a customized fit. Whether gaming, working, or relaxing, it provides the support you need for long hours of use.",
+      "tags": "high back, gaming, chair, ergonomic, furniture",
+      "reviews": [
+        {
+          "customerName": "Ryan Lee",
+          "review": "Fantastic chair! It's comfortable, sturdy, and looks awesome in my gaming room.",
+          "image": "reviewer1.jpeg"
+        },
+        {
+          "customerName": "Sophie Evans",
+          "review": "Great gaming chair! Love the lumbar support and adjustable armrests. Highly recommend it.",
+          "image": "reviewer1.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "accessories",
+      "productName": "Mogu-Kagu Creamer",
+      "price": 75,
+      "rating": 4.8,
+      "smallDesc": "Designed by Mitsugu Morita, the Mogu Kagu creamer is carved to pleasing proportions from a single piece of solid wood",
+      "amount": 20,
+      "image": "product17_1.webp",
+      "images": [
+        "product17_1.webp",
+        "product17_2.webp",
+        "product17_3.webp",
+        "product17_4.webp",
+        "product17_5.webp"
+      ],
+      "description": "The Pro Series Gaming Chair is built to withstand even the most intense gaming sessions. Its reinforced frame, high-density foam, and premium upholstery ensure long-lasting comfort and support.",
+      "info": "Designed with esports professionals in mind, this chair offers superior performance and adjustability. Whether streaming, practicing, or competing, it helps you stay focused and comfortable.",
+      "tags": "pro series, gaming, chair, esports, furniture",
+      "reviews": [
+        {
+          "customerName": "Daniel Harris",
+          "review": "Amazing chair! It's incredibly comfortable and supportive, even during long gaming marathons.",
+          "image": "reviewer2.jpeg"
+        },
+        {
+          "customerName": "Megan Cooper",
+          "review": "Absolutely love this chair! It's super stylish and comfortable, and the adjustable features are a game-changer.",
+          "image": "reviewer3.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "sofa",
+      "productName": "Sys four units",
+      "price": 200,
+      "rating": 4.5,
+      "smallDesc": "Sys was born as a sofa full of configurations, which gives the possibility of creating modular systems.",
+      "amount": 20,
+      "image": "product18_1.webp",
+      "images": ["product18_1.webp", "product18_2.webp", "product18_3.webp"],
+      "description": "Indulge in the classic elegance of our Vintage Leather Armchair. Its timeless design and rich leather upholstery make it a statement piece for any living space.",
+      "info": "Handcrafted with precision, this armchair is built to last. Whether placed in a cozy corner or a formal sitting area, it exudes charm and sophistication.",
+      "tags": "vintage, leather, armchair, luxury, furniture",
+      "reviews": [
+        {
+          "customerName": "Sophia Adams",
+          "review": "Absolutely love this armchair! The leather feels luxurious, and it's so comfortable to sit on. Perfect addition to my living room.",
+          "image": "reviewer3.jpeg"
+        },
+        {
+          "customerName": "David Miller",
+          "review": "High-quality craftsmanship and elegant design. This armchair exceeded my expectations. Highly recommend it to anyone looking for a stylish addition to their home.",
+          "image": "reviewer2.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "category": "accessories",
+      "productName": "Archiblocks Bauhaus",
+      "price": 135,
+      "rating": 4.3,
+      "smallDesc": "A lesson in modularity, balance, and composition; in a box.",
+      "amount": 15,
+      "image": "product19_1.webp",
+      "images": [
+        "product19_1.webp",
+        "product19_2.webp",
+        "product19_3.webp",
+        "product19_4.webp",
+        "product19_5.webp",
+        "product19_6.webp",
+        "product19_7.webp",
+        "product19_8.webp"
+      ],
+      "description": "Embrace contemporary style with our Modern Velvet Armchair. Its soft velvet fabric and minimalist design make it a versatile piece for modern interiors.",
+      "info": "Designed for both comfort and style, this armchair is perfect for lounging or reading. The sturdy construction ensures durability without compromising on aesthetics.",
+      "tags": "modern, velvet, armchair, contemporary, furniture",
+      "reviews": [
+        {
+          "customerName": "Olivia Wilson",
+          "review": "This armchair is stunning! The velvet fabric is so soft, and the color is exactly as pictured. It's become my favorite spot in the house.",
+          "image": "reviewer3.jpeg"
+        },
+        {
+          "customerName": "Daniel White",
+          "review": "I'm impressed by the quality and comfort of this armchair. It's a perfect blend of style and functionality. Highly recommended!",
+          "image": "reviewer1.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "sofa",
+      "productName": "Sys three units",
+      "price": 150,
+      "rating": 4.4,
+      "smallDesc": "Sys was born as a sofa full of configurations, which gives the possibility of creating modular systems, that fit well in contexts such as waiting rooms.",
+      "amount": 18,
+      "image": "product20_1.webp",
+      "images": ["product20_1.webp", "product20_2.webp", "product20_3.webp"],
+      "description": "Enjoy classic comfort with our Tufted Armchair. Its timeless design and plush cushioning create a cozy spot for relaxation and leisurely reading.",
+      "info": "Crafted with attention to detail, this armchair combines style and durability. Whether placed in a living room or bedroom, it adds a touch of sophistication.",
+      "tags": "classic, tufted, armchair, cozy, furniture",
+      "reviews": [
+        {
+          "customerName": "Sophie Roberts",
+          "review": "Love, love, love this armchair! It's so comfortable and looks beautiful in my reading corner. The tufted design adds a touch of elegance.",
+          "image": "reviewer3.jpeg"
+        },
+        {
+          "customerName": "Matthew Brown",
+          "review": "This armchair exceeded my expectations. The quality is top-notch, and it's incredibly comfortable to sit on. Couldn't be happier with my purchase!",
+          "image": "reviewer2.jpeg"
+        }
+      ]
+    }
+  ],
+  "featuredProduct": [
+    {
+      "id": 1,
+      "productName": "Nusskubus Nutcracker",
+      "image": "product1_1.webp",
+      "price": 50,
+      "amount": 10
+    },
+    {
+      "id": 2,
+      "image": "product2_1.webp",
+      "price": 295,
+      "productName": "Kei Side Table",
+      "amount": 15
+    },
+    {
+      "id": 3,
+      "image": "product3_1.webp",
+      "price": 25,
+      "productName": "Ito Bindery Memo Block",
+      "amount": 20
+    },
+    {
+      "id": 4,
+      "image": "product4_1.webp",
+      "price": 100,
+      "productName": "Glass Table",
+      "amount": 8
+    }
+  ],
+
+  "new-arrivals": [
+    {
+      "id": 5,
+      "image": "product5_1.webp",
+      "price": 60,
+      "productName": "Endless Rain Record",
+      "type": "accessories",
+      "smallDesc": "Audio to sooth your mind.",
+      "amount": 25
+    },
+    {
+      "id": 6,
+      "image": "product6_1.webp",
+      "price": 70,
+      "productName": "Coffee Table",
+      "type": "table",
+      "smallDesc": "One of One.",
+      "amount": 18
+    },
+    {
+      "id": 7,
+      "image": "product7_1.webp",
+      "price": 90,
+      "productName": "Skultuna Herb Pot",
+      "type": "accessories",
+      "smallDesc": "A nod to traditional terracotta planters, this brass herb pot is an elegant addition to your space.",
+      "amount": 8
+    },
+    {
+      "id": 8,
+      "image": "product8_1.webp",
+      "price": 795,
+      "productName": "Kei Console",
+      "type": "table",
+      "smallDesc": "A resting place for sounds of old memories and new sensations.",
+      "amount": 15
+    },
+    {
+      "id": 9,
+      "image": "product9_1.webp",
+      "price": 80,
+      "productName": "Pure Loop Binuance Retro",
+      "type": "chair",
+      "smallDesc": "The Binuance develops colours, material and technology of the Pure Loop family",
+      "amount": 10
+    },
+    {
+      "id": 10,
+      "image": "product10_1.webp",
+      "price": 60,
+      "productName": "Balancing Blocks",
+      "type": "accessories",
+      "smallDesc": "Handcrafted from reclaimed oak, and tumbled in a non-toxic water-based paint that allows the natural grain to show through. A printed cotton drawstring bag is included for convenient storage.",
+      "amount": 10
+    },
+    {
+      "id": 11,
+      "image": "product11_1.webp",
+      "price": 100,
+      "productName": "Versable",
+      "type": "table",
+      "smallDesc": "The Versable family includes fixed and extendable models, available in several sizes, in order to allow a full answer to the needs of the contemporary environments.",
+      "amount": 12
+    },
+    {
+      "id": 12,
+      "image": "product12_1.webp",
+      "price": 80,
+      "productName": "Skol wood",
+      "type": "chair",
+      "smallDesc": "The design of Skol, at first glance, brings back memories of times long gone by.",
+      "amount": 8
+    }
+  ],
+  "best-seller": [
+    {
+      "id": 1,
+      "image": "product1_1.webp",
+      "price": 50,
+      "productName": "Nusskubus Nutcracker",
+      "type": "accessories",
+      "smallDesc": "Perfect for hazelnuts, walnuts, brazil nuts, and the like.",
+      "amount": 10
+    },
+    {
+      "id": 2,
+      "image": "product2_1.webp",
+      "price": 295,
+      "productName": "Kei Side Table",
+      "type": "table",
+      "smallDesc": "Bringing a charming presence to a space",
+      "amount": 15
+    },
+    {
+      "id": 19,
+      "image": "product19_1.webp",
+      "price": 135,
+      "productName": "Archiblocks Bauhaus",
+      "type": "accessories",
+      "smallDesc": "A lesson in modularity, balance, and composition; in a box.",
+      "amount": 15
+    },
+    {
+      "id": 20,
+      "image": "product20_1.webp",
+      "price": 150,
+      "productName": "Sys three units",
+      "type": "sofa",
+      "smallDesc": "Sys was born as a sofa full of configurations, which gives the possibility of creating modular systems, that fit well in contexts such as waiting rooms.",
+      "amount": 18
+    }
+  ],
+
+  "most-view": [
+    {
+      "id": 6,
+      "image": "product6_1.webp",
+      "price": 70,
+      "productName": "Coffee Table",
+      "type": "table",
+      "smallDesc": "One of One.",
+      "amount": 18
+    },
+    {
+      "id": 10,
+      "image": "product10_1.webp",
+      "price": 60,
+      "productName": "Balancing Blocks",
+      "type": "accessories",
+      "smallDesc": "Handcrafted from reclaimed oak, and tumbled in a non-toxic water-based paint that allows the natural grain to show through. A printed cotton drawstring bag is included for convenient storage.",
+      "amount": 10
+    },
+    {
+      "id": 12,
+      "image": "product12_1.webp",
+      "price": 80,
+      "productName": "Skol wood",
+      "type": "chair",
+      "smallDesc": "The design of Skol, at first glance, brings back memories of times long gone by.",
+      "amount": 8
+    },
+    {
+      "id": 13,
+      "image": "product13_1.webp",
+      "price": 189,
+      "productName": "Rami",
+      "type": "table",
+      "smallDesc": "The Rami trestles allow you to create a modular and customized table, tailored to the setting and the wishes of those who choose it.",
+      "amount": 15
+    },
+    {
+      "id": 14,
+      "image": "product14_1.webp",
+      "price": 35,
+      "productName": "Ito Bindery Drawing Pad",
+      "type": "accessories",
+      "smallDesc": "Put your mind on paper with Ito Bindery Drawing Pads.",
+      "amount": 18
+    },
+    {
+      "id": 7,
+      "image": "product7_1.webp",
+      "price": 90,
+      "productName": "Skultuna Herb Pot",
+      "type": "accessories",
+      "smallDesc": "A nod to traditional terracotta planters, this brass herb pot is an elegant addition to your space.",
+      "amount": 8
+    },
+    {
+      "id": 8,
+      "image": "product8_1.webp",
+      "price": 795,
+      "productName": "Kei Console",
+      "type": "table",
+      "smallDesc": "A resting place for sounds of old memories and new sensations.",
+      "amount": 15
+    },
+    {
+      "id": 9,
+      "image": "product9_1.webp",
+      "price": 80,
+      "productName": "Pure Loop Binuance Retro",
+      "type": "chair",
+      "smallDesc": "The Binuance develops colours, material and technology of the Pure Loop family",
+      "amount": 10
+    }
+  ],
+
+  "discounts": [
+    {
+      "id": 11,
+      "image": "product11_1.webp",
+      "price": 100,
+      "productName": "Versable",
+      "type": "table",
+      "smallDesc": "The Versable family includes fixed and extendable models, available in several sizes, in order to allow a full answer to the needs of the contemporary environments.",
+      "amount": 12
+    },
+    {
+      "id": 12,
+      "image": "product12_1.webp",
+      "price": 80,
+      "productName": "Skol wood",
+      "type": "chair",
+      "smallDesc": "The design of Skol, at first glance, brings back memories of times long gone by.",
+      "amount": 8
+    },
+    {
+      "id": 13,
+      "image": "product13_1.webp",
+      "price": 189,
+      "productName": "Rami",
+      "type": "table",
+      "smallDesc": "The Rami trestles allow you to create a modular and customized table, tailored to the setting and the wishes of those who choose it.",
+      "amount": 15
+    },
+    {
+      "id": 14,
+      "image": "product14_1.webp",
+      "price": 35,
+      "productName": "Ito Bindery Drawing Pad",
+      "type": "accessories",
+      "smallDesc": "Put your mind on paper with Ito Bindery Drawing Pads.",
+      "amount": 18
+    },
+    {
+      "id": 18,
+      "image": "product18_1.webp",
+      "price": 200,
+      "productName": "Sys four units",
+      "type": "sofa",
+      "smallDesc": "Sys was born as a sofa full of configurations, which gives the possibility of creating modular systems.",
+      "amount": 20
+    },
+    {
+      "id": 19,
+      "image": "product19_1.webp",
+      "price": 135,
+      "productName": "Archiblocks Bauhaus",
+      "type": "accessories",
+      "smallDesc": "A lesson in modularity, balance, and composition; in a box.",
+      "amount": 15
+    },
+    {
+      "id": 20,
+      "image": "product20_1.webp",
+      "price": 150,
+      "productName": "Sys three units",
+      "type": "sofa",
+      "smallDesc": "Sys was born as a sofa full of configurations, which gives the possibility of creating modular systems, that fit well in contexts such as waiting rooms.",
+      "amount": 18
+    },
+    {
+      "id": 15,
+      "image": "product15_1.webp",
+      "price": 70,
+      "productName": "Feluca",
+      "type": "chair",
+      "smallDesc": "The feluca (“becorn hat” in English) is an ancient headgear used in the eighteenth century and characterized by two downward curved extremities. ",
+      "amount": 30
+    }
+  ]
+}
